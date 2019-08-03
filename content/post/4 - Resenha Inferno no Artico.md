@@ -24,3 +24,4 @@ E nosso assassino é simplesmente sensacional. E não digo isso elogiando-o, mas
 "— O que ele respondeu? Quando você perguntou como se sabe qual é a coisa certa? 
 ― 'Sempre a mais difícil'."
 
+[Comprar na Amazon] (https://www.amazon.com.br/Inferno-no-%C3%81rtico-Cl%C3%A1udia-Lemes-ebook/dp/B07KFSRZVC)
