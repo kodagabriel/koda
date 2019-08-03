@@ -6,7 +6,7 @@ theme = "gohugo-theme-ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "pt-br"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -22,7 +22,7 @@ enableRobotsTXT = true
   twitter = "https://twitter.com/ehkoda"
   instagram = "https://instagram.com/ehkoda"
   youtube = ""
-  github = ""
+  github = "https://github.com/kodagabriel"
   gitlab = ""
   linkedin = "https://linkedin.com/in/koda-gabriel/"
   mastodon = ""

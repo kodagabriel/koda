@@ -1,5 +1,5 @@
 ---
-date: 2019-28-07T10:58:08-04:10
+date: 2019-08-01T22:04:05-03:00
 description: "Terror? Nem tanto"
 featured_image: "/images/meninama.png"
 featured_text: "Descrição da imagem: Uma foto horizontal de divulgação do livro. No plano de fundo o rosto de uma boneca criança de pele branca, olhos azuis e cabelo louro. Ele está em duas tranças laterais e ela tem franjinha curta acima dos olhos. Uma parte próxima do olho está “rasgada” como se o rosto dela fosse uma página de livro e está a mostra por baixo seus músculos. Por cima, os dizeres “Menina Má, William March. Será a maldade uma semente que brota dentro de nós?”"

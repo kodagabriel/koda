@@ -1,5 +1,5 @@
 ---
-date: 2019-29-07T10:58:08-04:10
+date: 2019-08-02T22:04:05-03:00
 description: "Terror? Nem tanto"
 featured_image: "/images/post2.jpg"
 featured_text: "Descrição da imagem: A capa do livro O mistério dos suicidas, de Walter Niyama. A capa é um roxo claro em cima e roxo escuro em baixo. O titulo está escrito em laranja e uma fonte cursiva. Ao fundo da imagem aparece a sombra de duas pessoas. Uma delas está de terno e parada. A outra usa shorts e uma bota e tem cabelo longo e parece andar. Em ultimo plano diversas estruturas como igrejas antigas, prédios históricos e um céu estrelado. Em primeiro plano há raízes como de uma árvore."
