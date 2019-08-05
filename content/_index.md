@@ -9,3 +9,4 @@ Lendo/assistindo atualmente:
 
 - A rede de Alice 
 - Lucifer 
+- Todo clichê de amor é amor
