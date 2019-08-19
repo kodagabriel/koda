@@ -2,12 +2,12 @@
 date: 2019-08-19T19:37:55-03:00
 description: "Histórias de amor clichês com representatividade"
 featured_image: "/images/post4.jpg"
-featured_text: "Descrição da imagem: A capa do livro Inferno no Ártico. No fundo da capa, uma espécie de vidro congelado. Acima, um papel com os dizeres 'Inferno no ártico'. Abaixo, o nome da autora, Cláudia Lemes, e 'Autora de Eu Vejo Kate'. Linhas vermelhas finas passam por cima do papel e como se contornassem o livro."
+featured_text: "Descrição da imagem: Parte da capa do livro Qualquer Clichê de Amor é Amor. O fundo da imagem é rosa escuro e por cima temos duas mãos com os mindinhos entrelaçados. Por cima o título do livro em branco, com a parte "é amor" colorida com as cores da bandeira LGBTQIA+"
 tags: ["livro","resenha","ebook","lgbt"]
 title: "Resenha: Qualquer clichê de amor é amor - Vários autores"
 ---
 
-Esse é um livro fora do comum em livros de romance. Em filmes, séries e livros populares sempre temos um casal hétero se amando, e mesmo nos mais clichês, a representatividade passa longe. O objetivo do livro Qualquer clichê de amor é amor é romper com a carência de conteúdo romântico com personagens LGBTQIA+, especialmente aqueles em que os personagens só se dão bem, ponto. Não há sofrência em excesso ou mortes, como muitos adoram representar histórias de sofrimento envolvendo pessoas LGBQIA+. O objetivo desse livro é conter uma série de contos água com açucar e fofos com o puro objetivo de te fazer pensar "ownt, que fofo". 
+Esse é um livro fora do comum em livros de romance. Em filmes, séries e livros populares sempre temos um casal hétero se amando, e mesmo nos mais clichês, a representatividade passa longe. O objetivo do livro Qualquer clichê de amor é amor é romper com a carência de conteúdo romântico com personagens LGBTQIA+, especialmente aqueles em que os personagens só se dão bem, ponto. Não há sofrência em excesso ou mortes, como muitos adoram representar histórias de sofrimento envolvendo pessoas LGBTQIA+. O objetivo desse livro é conter uma série de contos água com açucar e fofos com o puro objetivo de te fazer pensar "ownt, que fofo". 
 
 Durante a leitura eu me perguei diversas vezes pensando "como isso é clichê", só pra em seguida rir da minha cara porque, bem, esse era o objetivo. E gostei, em geral, de todas as histórias. Embora tenha críticas (e as farei a seguir), tenho bons pontos a ressaltar e também um pouco pra falar dos meus contos favoritos. Vou citá-los sem ordem de preferência, apenas colocand na ordem em que aparecem no livro.
 
