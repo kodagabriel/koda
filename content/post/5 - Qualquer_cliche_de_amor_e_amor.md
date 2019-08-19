@@ -2,7 +2,7 @@
 date: 2019-08-19T19:37:55-03:00
 description: "Histórias de amor clichês com representatividade"
 featured_image: "/images/post4.jpg"
-featured_text: "Descrição da imagem: Parte da capa do livro Qualquer Clichê de Amor é Amor. O fundo da imagem é rosa escuro e por cima temos duas mãos com os mindinhos entrelaçados. Por cima o título do livro em branco, com a parte "é amor" colorida com as cores da bandeira LGBTQIA+"
+featured_text: "Descrição da imagem: Parte da capa do livro Qualquer Clichê de Amor é Amor. O fundo da imagem é rosa escuro e por cima temos duas mãos com os mindinhos entrelaçados. Por cima o título do livro em branco, com a parte 'é amor' colorida com as cores da bandeira LGBTQIA+"
 tags: ["livro","resenha","ebook","lgbt"]
 title: "Resenha: Qualquer clichê de amor é amor - Vários autores"
 ---
