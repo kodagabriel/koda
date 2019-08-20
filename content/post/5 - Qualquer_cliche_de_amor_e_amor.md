@@ -9,7 +9,7 @@ title: "Resenha: Qualquer clichê de amor é amor - Vários autores"
 
 Esse é um livro fora do comum em livros de romance. Em filmes, séries e livros populares sempre temos um casal hétero se amando, e mesmo nos mais clichês, a representatividade passa longe. O objetivo do livro Qualquer clichê de amor é amor é romper com a carência de conteúdo romântico com personagens LGBTQIA+, especialmente aqueles em que os personagens só se dão bem, ponto. Não há sofrência em excesso ou mortes, como muitos adoram representar histórias de sofrimento envolvendo pessoas LGBTQIA+. O objetivo desse livro é conter uma série de contos água com açucar e fofos com o puro objetivo de te fazer pensar "ownt, que fofo". 
 
-Durante a leitura eu me perguei diversas vezes pensando "como isso é clichê", só pra em seguida rir da minha cara porque, bem, esse era o objetivo. E gostei, em geral, de todas as histórias. Embora tenha críticas (e as farei a seguir), tenho bons pontos a ressaltar e também um pouco pra falar dos meus contos favoritos. Vou citá-los sem ordem de preferência, apenas colocand na ordem em que aparecem no livro.
+Durante a leitura eu me perguei diversas vezes pensando "como isso é clichê", só pra em seguida rir da minha cara porque, bem, esse era o objetivo. E gostei, em geral, de todas as histórias. Embora tenha críticas (e as farei a seguir), tenho bons pontos a ressaltar e também um pouco pra falar dos meus contos favoritos. Vou citá-los sem ordem de preferência, apenas colocando na ordem em que aparecem no livro.
 
 O primeiro conto favorito é, coicidentemente, o primeiro do livro. "Romance rosa-shocking", de Bianca Melo, me fez aquecer o coração e pensar em como a adolescência é um período maluco de descobertas e que pode resultar em alegrias. A personagem principal se envolve de uma forma muito fofa com uma garota improvável e as coisas tomam um rumo bem interessante. Adorei ter a oportunidade de ler esse conto.
 
@@ -17,7 +17,7 @@ O primeiro conto favorito é, coicidentemente, o primeiro do livro. "Romance ros
 
 "Um romance adolescente" se destaca pela representatividade de pessoas com deficiência. A história é bem leve e clichê (como tinha que ser), mas gostei de como mostra detalhes da vida de uma pessoa que usa cadeira de rodas que passam despercebidos se você não tem uma deficiência ou não conhece alguém que tenha. 
 
-"Dez motivos" é lindo, fofo e apaixonante. Tem momentos de muita angustia que me deixaram muito ansioso, mesmo sabendo que, como um bom clichê, o sinal seria fofo e feliz. Li com bastante vontade de saber mais sobre os personagens e adorei como a dinâmica entre eles foi apresentada. 
+"Dez motivos" é lindo, fofo e apaixonante. Tem momentos de muita angustia que me deixaram muito ansioso, mesmo sabendo que, como um bom clichê, o final seria fofo e feliz. Li com bastante vontade de saber mais sobre os personagens e adorei como a dinâmica entre eles foi apresentada. 
 
 "Vestida para se apaixonar" fecha minha lista dos favoritos com chave de ouro, sendo o primeiro conto do livro a mencionar a bissexualidade, mesmo que de forma casual. A história é super fofa e te deixa querendo saber mais.
 
