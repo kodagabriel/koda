@@ -23,6 +23,13 @@ O primeiro conto favorito é, coicidentemente, o primeiro do livro. "Romance ros
 
 Todos os contos do livro são muito bons, mesmo os que não figuram entre os meus favoritos. Mas acho que o livro peca bastante em se vender como representatividade LGBTQIA+ quando na verdade está mais pra LGb. Muitos contos com lésbicas, muitos com gays, dois com bissexuais (um deles tem uma breve menção, o outro tem a bissexualidade e a bifobia como chave, o que foi interessante). Nada de pessoas trans, assexuais, intersexo ou queer. Senti falta, muita falta, de uma maior diversidade nos personagens nesse sentido. 
 
+
+(ADENDO: Editado em 19/08/2019 às 23:18)
+
+De fato, há um personagem trans na história "Aos 30", a segunda do livro. Me foi apontado esse fato e reli a história agora nessa perspectiva. Tive essa impressão no decorrer da primeira leitura por pequenos detalhes, mas como nada foi diretamente mencionado (como haviam sido mencionadas sexualidades), não levei a ideia tão a sério. Achei interessante os detalhes sutis, mas me incomodou ainda o fato do personagem não ter sido definido como trans diretamente, mas ter, por exemplo, sua sexualidade definida abertamente. Ficou pra mim a impressão de que sua sexualidade era relevante pra representatividade, mas não seu gênero e sua o fato dele ser trans.  
+
+(FIM ADENDO) 
+
 Como uma pessoa trans não-binária negra, bissexual e dentro do aspectro assexual, me vi pouco nas histórias, mesmo as achando fofas e bonitinhas em sua maioria. E a crítica a falta de diversidade não é mal fundamentada, já que os personagens se definiram lésbicas e gays na maioria dos contos e apenas nos citados mencionaram a bissexualidade. Nada sobre cisgeneridade ou transgeneridade (ou seja, assumimos que as personagens eram cis. Caso não fossem, isso viria a tona, dado que o objetivo era criar representatividade). 
 
 É um bom livro que, em certa parte, cumpre sua proposta. Faltou infelizmente diversificar mais a representatividade dos contos. Por isso, dou 4/5 estrelas.
