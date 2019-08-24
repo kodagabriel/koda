@@ -10,6 +10,7 @@ Lendo/assistindo atualmente:
 - A rede de Alice 
 - Lucifer 
 - Mindhunter
+- Um estudo em vermelho
 
     
 
