@@ -8,9 +8,9 @@ Faço análises de coisas legais que eu assisto ou leio.
 Lendo/assistindo atualmente: 
 
 - A rede de Alice 
-- Lucifer 
-- Mindhunter
-- Um estudo em vermelho
+- It: a coisa
+- O que nunca contei a ninguém
+- As obras completas de Carl Barks
 
     
 
