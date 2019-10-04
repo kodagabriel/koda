@@ -33,3 +33,4 @@ enableRobotsTXT = true
   show_reading_time = true
   disqusShortname = "kodagabriel"
   toc = true
+  og_image = "/images/header2.jpg"

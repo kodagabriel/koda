@@ -2,7 +2,8 @@
 date: 2019-08-31T16:54:11-03:00
 description: "O conto mais fofo que você vai ler"
 featured_image: "/images/post6.jpg"
-featured_text: "Descrição da imagem: Uma foto de uma parte da capa do livro em zoom no centro e na lateral a capa completa do livro. A capa é misto de roxo claro e escuro. No topo, em amarelo, o nome do autor (Vitor Martins). Embaixo, o título em branco (Escrito em algum lugar). No centro da capa, dois garotos estão sentados contra uma grade. Um deles é branco, gordo, cabelo marrom claro e alto. Ele veste uma blusa branca, usa relógio e uma calça rosa. O tênis dele é branco ocm listras pretas. Do lado esquerdo dele está um pacote de fast food e um copo de refrigerante. Ao lado direito dele há um garoto negro, alto, cabelo black power rapasdo na lateral. Ele usa uma blusa de frio amarela, relógio e segura um celular e usa fones de ouvido. Usa uma bermuda branca, tênis branco e meias amarelas."
+og_image: "/images/post6.jpg"
+featured_text: "Descrição da imagem: Uma foto de uma parte da capa do livro em zoom no centro e na lateral a capa completa do livro. A capa é misto de roxo claro e escuro. No topo, em amarelo, o nome do autor (Vitor Martins). Embaixo, o título em branco (Escrito em algum lugar). No centro da capa, dois garotos estão sentados contra uma grade. Um deles é branco, gordo, cabelo marrom claro e alto. Ele veste uma blusa branca, usa relógio e uma calça rosa. O tênis dele é branco ocm listras pretas. Do lado esquerdo dele está um pacote de fast food e um copo de refrigerante. Ao lado direito dele há um garoto negro, alto, cabelo black power raspado na lateral. Ele usa uma blusa de frio amarela, relógio e segura um celular e usa fones de ouvido. Usa uma bermuda branca, tênis branco e meias amarelas."
 tags: ["resenha","conto","lgbt"]
 title: "Resenha: Escrito em algum lugar, de Vitor Martins"
 ---

@@ -7,7 +7,21 @@
     <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
-
+    <!-- open graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}"/>
+    <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
+    <meta property="og:site_name" content="{{ .Site.Title }}"/>
+    <meta property="og:url" content="{{ .Permalink }}"/>
+    <meta property="og:locale" content="pt-br">
+      {{ if .Params.og_image }}
+    <meta property="og:image" content="http://kodagabriel.github.io{{ .Params.og_image | relURL }}"/>
+    <meta property="og:image:secure_url" content="{{ .Params.og_image | absURL }}"/>
+    {{ else }}
+    <meta property="og:image" content="http://kodagabriel.github.io{{ .Site.Params.og_image | relURL }}"/>
+    <meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}"/>
+    {{ end }}
+    <meta property="og:type" content="website"/>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     {{ .Hugo.Generator }}
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
